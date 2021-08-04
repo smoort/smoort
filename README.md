@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @smoort
+- 👀 I’m deeply interested in solving real world problems effeciently with the right technologies
+- 🌱 I’m currently learning Autonomous Vehicle programming
+- 💞️ I’m looking to collaborate on Automnomous Vehicle development
+- 📫 You can reach me @ smoort.github@gmail.com
